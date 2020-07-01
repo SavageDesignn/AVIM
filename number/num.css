@@ -1,0 +1,19 @@
+
+/* Base */
+
+body {
+	background-color: #000;
+	color: #fff;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	width: 100%;
+}
+
+/*  */
+
+.num {
+	align-items: center;
+	padding: 300px;
+	font-size: 40px;
+}
